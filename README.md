@@ -1,2 +1,2 @@
-# react-calculator-aj
+# react-calculator-ajarn
 Created with CodeSandbox
